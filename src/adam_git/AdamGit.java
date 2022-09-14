@@ -7,4 +7,6 @@ public class AdamGit {
     // class file updated
 
     // TC001 created
+
+    // Tc001 tested
 }
